@@ -33,7 +33,7 @@
 <script src="https://cdn.jsdelivr.net/gh/netizenorg/netnet-standard-library@1.0.1/build/nn.min.js"></script>
 <script>
 
-  let url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR6fMbf4UJfsvmZkzPLvmftrxaYwOF2DR-4y7kjklm8gns7JJCuEbt7H21Mc0JZs_ism6rvekxM-D14/pub?output=csv'
+  let url = 'data/historic.csv'
   // to make data accessible to my code, 
   // in File >Share > Publish to Web, 
   // and then selecting "Comma-separated values (csv)" as the format.
@@ -47,7 +47,8 @@
     let res = await fetch(url)
     let csv = await res.text()
     state.data = nn.parse(csv)
-    render()
+    console.log(state.data)
+    // render()
   }
   
   function render () {
