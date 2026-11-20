@@ -1,73 +1,25 @@
-<style>
-  
-  main {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  img {
-    margin-top: 100px;
-    width: 400px;
-  }
-  
-  cite {
-    margin-bottom: 20px;
-  }
-
-</style>
-
-<main>
-  <img src="..." alt="...">
-
-  <p>
-    ...
-  </p>
-
-  <cite>...</cite>
-
-  <button>next</button>
-</main>
-
-<script src="https://cdn.jsdelivr.net/gh/netizenorg/netnet-standard-library@1.0.1/build/nn.min.js"></script>
-<script>
-
-  let url = 'data/historic.csv'
-  // to make data accessible to my code, 
-  // in File >Share > Publish to Web, 
-  // and then selecting "Comma-separated values (csv)" as the format.
-  
-  let state = {
-    data: null,
-    post: 0
-  }
-  
-  async function loadData () {
-    let res = await fetch(url)
-    let csv = await res.text()
-    state.data = nn.parse(csv)
-    console.log(state.data)
-    // render()
-  }
-  
-  function render () {
-    let post = state.data[state.post]
-    nn.get('img').set('src', post.image)
-    nn.get('p').content(post.description)
-    let cred = 'by ' + post.author
-    nn.get('cite').content(cred)
-  }
-  
-  function nextPost () {
-    state.post += 1
-    if (state.post > state.data.length) {
-      state.post = 0
-    }
-    render()
-  }
-
-  nn.on('load', loadData)
-  nn.get('button').on('click', nextPost)
-
-</script>
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>My Card Collection</title>
+    <!-- import our main CSS stylesheet -->
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    
+    <main>
+      <info-card title="Example Class" prof="John Smith" num="00000"></info-card>
+      
+      <button id="ran-course-button">random class 🎲</button>
+      
+      <info-card id="ran-course-card" title="..." prof="..." num="..."></info-card>
+    </main>
+    
+    <!-- import our custom element -->
+    <script src="custom-elements/info-card.js"></script>
+    <!-- import the nn helper library -->
+    <script src="https://cdn.jsdelivr.net/gh/netizenorg/netnet-standard-library@1.0.1/build/nn.min.js"></script>
+    <!-- import our main JS file -->
+    <script src="main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,19 @@
+/* these are our global CSS styles */
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  margin: 100px auto;
+  max-width: 400px;
+}
+
+info-card {
+  margin: 20px 0px;  
+}
+
+button {
+  cursor: pointer;
+}

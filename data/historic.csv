@@ -1,4 +1,629 @@
-title,images,description
-ralph,https://d2zp5xs5cp8zlg.cloudfront.net/image-79322-340.jpg,ralph is a regal kitty
-lucy,https://cdn.britannica.com/36/234736-050-4AC5B6D5/Scottish-fold-cat.jpg,lucy is a shy cat
-sam,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR0Hl3q4dN8Ze544M2r95DaOwTwTSoQQCMPoYvUBwE0D9pj04q7-OKIvAl&s=10,same is a hunter
+Term,Course Number,Class Title,Instructor(s),Ran?,MADD Parent?
+Autumn 2018,11320,Philippe Parreno's Media Temporalities,Ina Blom,y,
+Autumn 2018,12320,Critical Videogame Studies,Patrick Jagoda,y,y
+Autumn 2018,15425,"Censorship, Info Control, & Revolutions in Info Technology from the Printing Press to the Internet",Ada Palmer; Adrian D S Johns,y,
+Autumn 2018,20900,Computers for Learning,Diana Franklin,y,
+Autumn 2018,21500,Metamedia Design Studio,Jon Satrom,y,y
+Autumn 2018,22911,Augmented Reality Production,Marc Downie,y,
+Autumn 2018,23801,Video,Scott Wolniak,y,
+Autumn 2018,23930,Documentary Production I,Judy Hoffman,y,
+Autumn 2018,24410,Transmedia Puzzle Design & Performance,Sandor Weisz,y,y
+Autumn 2018,24618,Electronic Music I,Sam Pluta,y,
+Autumn 2018,25010,Anthropology of the Future,Shannon L Dawdy,y,
+Winter 2019,10430,"Gender, Sexuality, Imagination",Kara Keeling,y,
+Winter 2019,11004,Afrofuturism,Kara Keeling,y,
+Winter 2019,11730,"Science, Technology and Media via Japan",Michael Fisch,y,
+Winter 2019,12005,Filming the Police,Salome Skvirsky,y,
+Winter 2019,12800,Theories of Media,Michael Peddycoart; Steven Maye; William J T Mitchell,y,
+Winter 2019,20500,ARTGAMES: Infinite Lives,Jon Satrom,y,y
+Winter 2019,20700,Alternate Reality Games: Theory and Production,Heidi Coleman; Patrick Jagoda,y,
+Winter 2019,20810,Sound / Image Mapping,Marc Downie,y,
+Winter 2019,23804,Experimental Animation: Exploring Manual Techniques,Scott Wolniak,y,
+Winter 2019,23808,Introduction to 16mm Filmmaking,Thomas Comerford,y,
+Winter 2019,23820,The Mind as Stage: Podcasting,Sarah Geis,y,
+Winter 2019,23931,Documentary Production II,Judy Hoffman,y,
+Winter 2019,26618,Electronic Music I,David Mettens,y,
+Winter 2019,27900,"Image, Text, Archive",Rachel Kyne,y,
+Winter 2019,29400,Media Arts and Design Capstone Colloquium,Various,y,y
+Spring 2019,11005,Problems in the Study of Gender and Sexuality: Media Wars,Jennifer Wild; Lara Janson,y,
+Spring 2019,14865,Adaptation: Text and Image,Frank Maugeri; Mickle Maher,y,
+Spring 2019,16210,Media Art and Design Practice,Various,y,y
+Spring 2019,16312,Reforming Religious Media: Martin Luther and the Protestant Reformation,Christopher Wild,y,
+Spring 2019,17304,Photo/Modernism/Esthetic,Joel M Snyder,y,
+Spring 2019,18700,"History of International Cinema, Part III: 1960 to Present",James F Lastra,y,
+Spring 2019,21011,Experimental Captures,Marc Downie,y,
+Spring 2019,22502,Data and Algorithm in Art,Jason Salavon,y,
+Spring 2019,23220,"Inventing, Engineering and Understanding Interactive Devices",Pedro Lopes,y,
+Spring 2019,23809,Experimental Animation: Digital and Camera-less Production,Scott Wolniak,y,
+Spring 2019,24515,Contemporary Political Strategies in Performance,Annie Dorsen,y,
+Spring 2019,24530,Staging the Internet,Annie Dorsen,y,
+Spring 2019,24618,Electronic Music I,David Mettens,y,
+Spring 2019,24817,Electronic Music II: Introduction to Computer Music,Sam Pluta,y,
+Spring 2019,24910,Short Form Digital Storytelling: Creating a Web Series,Terrance Brown,y,
+Spring 2019,25305,Virtual Worlds and Nonhuman Narratives: Cyberspace Fiction,Nell Pach,y,
+Spring 2019,25612,Comics as Medium,James Rosenow,y,
+Spring 2019,26819,Video Game Music as Play and Discipline (1980s to Present),Julianne Grasso,y,
+Spring 2019,27915,"Introduction to Videogame Studies: Art, Play, and Society",Christopher Carloy,y,
+Summer 2019,11015,"Media, Culture & Society",Dominic Boyer,y,
+Autumn 2019,12151,Anthropology of Media,Michael Fisch,y,
+Autumn 2019,12320,Critical Videogame Studies,Ashlyn Sparrow; Patrick Jagoda,y,y
+Autumn 2019,12351,The Sonic Image,Hannah Higgins; William J T Mitchell,y,
+Autumn 2019,16001,Censorship in East Asia: The Case of Colonial Korea,Kyeong-Hee Choi,y,
+Autumn 2019,18500,History of International Cinema I: Silent Era,Allyson Field,y,
+Autumn 2019,18703,"Video Art: The Analog Years. Theory, Technology, Practice",Ina Blom,y,
+Autumn 2019,20900,Computers for Learning,Diana Franklin,y,
+Autumn 2019,21006,The Zine as Art Theory and Practice,Amber Ginsburg,y,
+Autumn 2019,21500,Metamedia Design Studio,Jon Satrom,y,y
+Autumn 2019,23801,Video,Scott Wolniak,y,
+Autumn 2019,23805,Minimalist Experiment in Film and Video,D.N. Rodowick,y,
+Autumn 2019,23930,Documentary Production I,Judy Hoffman,y,
+Autumn 2019,24410,Transmedia Puzzle Design & Performance,Sandor Weisz,y,y
+Autumn 2019,24618,Electronic Music I,Bryan Jacobs,y,
+Autumn 2019,24850,Topics in Scientific Computing,Gordon Kindlmann,y,
+Autumn 2019,24920,Virtual Reality Production,Marc Downie,y,
+Autumn 2019,26720,Musical Robotics,Bryan Jacobs,y,
+Winter 2020,12360,Introduction to Video Game Music Studies,Julianne Grasso,y,y
+Winter 2020,18600,History of International Cinema II: Sound Era to 1960,Ian Jones,y,
+Winter 2020,20500,ARTGAMES,Jon Satrom,y,y
+Winter 2020,21011,Experimental Captures,Marc Downie,y,
+Winter 2020,21900,Climate Change in Media and Design,Benjamin Morgan; Evan Wisdom-Dawson; Patrick Jagoda,y,
+Winter 2020,22500,Computational Imaging,Crystal Beiersdorfer; Jason Salavon,y,
+Winter 2020,23631,Internet Art I,Nicholas Briz,y,y
+Winter 2020,23640,Embodied Data and Gamified Interfaces,Jonathan Chambers,y,y
+Winter 2020,23808,Introduction to 16mm Filmmaking,Thomas Comerford,y,
+Winter 2020,23820,The Mind as Stage: Podcasting,Sarah Geis,y,
+Winter 2020,23931,Documentary Production II,Judy Hoffman,y,
+Winter 2020,24415,Games & Performance,Heidi Coleman,y,
+Winter 2020,24618,Electronic Music I,Theodore Moore,y,
+Winter 2020,26531,"Race, New Media, and Youth Movements for Justice",David Knight; Elizabeth Davies,y,
+Winter 2020,28300,Disability and Design,Jennifer Iverson; Michele Friedner,y,
+Winter 2020,29400,Media Arts and Design Capstone Colloquium,Various,y,y
+Spring 2020,10006,Contemporary Art,Matthew Jackson,y,
+Spring 2020,15630,Television in an Age of Change,Ilana Emmett,y,y
+Spring 2020,16210,Media Art and Design Practice,Various,y,y
+Spring 2020,18700,"History of International Cinema, Part III: 1960 to Present",James F Lastra,y,
+Spring 2020,18801,Chicago Film History,Judy Hoffman,y,
+Spring 2020,23020,New Media at a Distance,Marc Downie,y,
+Spring 2020,23220,"Inventing, Engineering and Understanding Interactive Devices",,n,
+Spring 2020,23632,Internet Art II,Nicholas Briz,y,y
+Spring 2020,23809,Experimental Animation: Digital and Camera-less Production,Scott Wolniak,y,
+Spring 2020,23860,Screendance: Movement and New Media,Elizabeth Leopold,y,
+Spring 2020,24550,Games-based Improvisation in ARGs (Alternate Reality Games),Heidi Coleman,y,
+Spring 2020,24618,Electronic Music I,Theodore Moore,y,
+Spring 2020,24910,Short Form Digital Storytelling: Creating a Web Series,Terrance Brown,y,
+Spring 2020,25201,Art & Machine Intelligence,Jason Salavon,y,
+Spring 2020,25302,A Still Life: Feminists and Objects in Modernity,Katherine Nolan,y,
+Spring 2020,25316,After You: Curating the Art & Algorithm Debate,Dieter Roelstraete,y,
+Spring 2020,25416,1990s Videogame History,Christopher Carloy,y,
+Spring 2020,25531,Framing the I: Autobiography and Film,Dominique Bluher,y,
+Spring 2020,25630,Videogames and Genre Storytelling,Ian Jones,y,y
+Spring 2020,25710,Modern Design and Modern Culture,Maggie Taft,y,
+Spring 2020,27908,American Graphic Art and Commercial Culture: 1850-1960,Neil Harris,y,
+Spring 2020,28989,Virtual Realities and Religious Realities,Matthew Peterson,y,
+Autumn 2020,11314,Fluxus and the Question of Media,Ina Blom,y,
+Autumn 2020,14916,Yōkai Media,Thomas Lamarre; Thomas Lamarre,y,
+Autumn 2020,18000,Photography and Film,Joel M Snyder,y,
+Autumn 2020,18500,History of International Cinema I: Silent Era,Daniel Morgan,y,
+Autumn 2020,20900,Computers for Learning,Diana Franklin,y,
+Autumn 2020,22700,Devising Fundamentals,Leslie Buxbaum,y,
+Autumn 2020,22911,Augmented Reality Production,,n,
+Autumn 2020,23281,Topics in Human Robot Interaction,Sarah Sebo,y,
+Autumn 2020,23801,Video,Scott Wolniak,y,
+Autumn 2020,23820,The Mind as Stage: Podcasting,Sarah Geis,y,
+Autumn 2020,24410,Transmedia Puzzle Design & Performance,Sandor Weisz,y,y
+Autumn 2020,24618,Electronic Music I,Darlene Castro; Sam Pluta; Sam Pluta,y,
+Autumn 2020,25277,"Literature and Technology: Machines, Humans, and Posthumans from Frankenstein to the Futurists",Ana Ilievska,y,
+Autumn 2020,25500,Beginning Screenwriting,Terrance Brown,y,
+Autumn 2020,25590,New Media Since the 19th Century,Zsofia Valyi-Nagy,y,
+Autumn 2020,29400,Media Arts and Design Capstone Colloquium,Various,y,y
+Winter 2021,14207,Mindfulness: Experience and Media,Margot Browning,y,
+Winter 2021,14342,"Games: Theory, Practice, and Experience",Zachary Sheldon,y,
+Winter 2021,15620,Japanese Animation: The Making of a Global Media,Thomas Lamarre,y,
+Winter 2021,15630,Television in an Age of Change,Ilana Emmett,y,y
+Winter 2021,18600,History of International Cinema II: Sound Era to 1960,Maria Belodubrovskaya,y,
+Winter 2021,20500,ARTGAMES,Jon Satrom,y,y
+Winter 2021,20620,Pivot to Digital: Adapting Performance Practices To Online Spaces,Seth Bockley,y,
+Winter 2021,21011,Experimental Captures,Marc Downie; Marc Downie,y,
+Winter 2021,22500,Computational Imaging,Jason Salavon,y,
+Winter 2021,23631,Internet Art I,Nicholas Briz,y,y
+Winter 2021,23650,Culture Jamming in the Digital Age,Nicholas Briz,y,y
+Winter 2021,23808,Introduction to 16mm Filmmaking,Thomas Comerford,y,
+Winter 2021,23833,Oral History & Podcasting,Sarah Geis,y,
+Winter 2021,23930,Documentary Production I,,n,
+Winter 2021,24420,Games and Performance: Live Action Role Playing Games,Heidi Coleman,y,
+Winter 2021,24618,Electronic Music I,Darlene Castro,y,
+Winter 2021,25080,Spectacle in Miniature,Frank Maugeri,y,
+Winter 2021,25630,Videogames and Genre Storytelling,Ian Jones,y,y
+Winter 2021,26059,"Media, Environment, and Risk",Thomas Pringle,y,
+Winter 2021,27522,Experimental Futures: Re-figurations of Human/Environment Relationships,Desiree Foerster,y,
+Winter 2021,27558,No Future: Visual Media and Contemporary Life,Andrew Pettinelli,y,
+Winter 2021,27703,Visualizing Knowledge: Studies in the Humanities and Sciences,Shana Cooperstein,y,
+Winter 2021,29400,Media Arts and Design Capstone Colloquium,Various,y,y
+Spring 2021,10006,Contemporary Art,Matthew Jackson,y,
+Spring 2021,10904,Media Wars,Jennifer Wild,y,
+Spring 2021,12355,Sounding Bodies,Whitney Johnson,y,y
+Spring 2021,18000,Photography and Film,Joel M Snyder,y,
+Spring 2021,18700,"History of International Cinema, Part III: 1960 to Present",James F Lastra,y,
+Spring 2021,21111,Creative Coding,Ravi Chugh,y,
+Spring 2021,23632,Internet Art II,Nicholas Briz,y,y
+Spring 2021,23655,Collaborative Artware,Nicholas Briz,y,y
+Spring 2021,23804,Experimental Animation: Exploring Manual Techniques,Scott Wolniak,y,
+Spring 2021,23860,Screendance: Movement and New Media,Elizabeth Leopold,y,
+Spring 2021,24550,Evolution of Improvisation in Chicago,Heidi Coleman,y,
+Spring 2021,24618,Electronic Music I,David Mettens,y,
+Spring 2021,24817,Electronic Music II: Introduction to Computer Music,Sam Pluta,y,
+Spring 2021,24910,Short Form Digital Storytelling: Creating a Web Series,Terrance Brown,y,
+Spring 2021,24920,Virtual Reality Production,Marc Downie,y,
+Spring 2021,24930,Designing Virtual Space While Staying Alive,Li Yao,y,y
+Spring 2021,25010,Anthropology of the Future,Shannon L Dawdy,y,
+Spring 2021,25201,Art & Machine Intelligence,Jason Salavon,y,
+Spring 2021,25650,From Open Worlds to Angry Birds: Videogame History 2000-2010,Christopher Carloy,y,
+Spring 2021,26210,Media Art and Design Practice,Various,y,y
+Spring 2021,28008,Sound and Scandal: How Media Make Believe,Amy Skjerseth,y,
+Autumn 2021,10992,Metapictures,William J T Mitchell,y,
+Autumn 2021,11315,"Introduction to Art, Technology, and Media",Ina Blom,y,
+Autumn 2021,12320,Critical Videogame Studies,Ashlyn Sparrow; Patrick Jagoda,y,y
+Autumn 2021,12830,Indigenous Media and the Politics of Representation,Teresa Montoya,y,
+Autumn 2021,13303,Chris Marker,Dominique Bluher,y,
+Autumn 2021,14613,"God of Manga: Osamu Tezuka's ""Phoenix,"" Buddhism, and Post-WWII Manga and Anime",,n,
+Autumn 2021,15521,Music and the History of AI,Bradley Spiers,y,
+Autumn 2021,18500,History of International Cinema I: Silent Era,Daniel Morgan,y,
+Autumn 2021,20900,Computers for Learning,Diana Franklin,y,
+Autumn 2021,22911,Augmented Reality Production,Marc Downie,y,
+Autumn 2021,23218,Surveillance Aesthetics: Provocations About Privacy and Security in the Digital Age,Blase Ur,y,
+Autumn 2021,23281,Topics in Human Robot Interaction,Sarah Sebo,y,
+Autumn 2021,23631,Internet Art I,Nicholas Briz,y,y
+Autumn 2021,23805,Minimalist Experiment in Film and Video,D.N. Rodowick,y,
+Autumn 2021,23930,Documentary Production I,Judy Hoffman,y,
+Autumn 2021,24270,Children & Architecture,Luke Joyner,y,
+Autumn 2021,24410,Transmedia Puzzle Design & Performance,Sandor Weisz,y,y
+Autumn 2021,24618,Electronic Music: Composing with Sound,Hunter Brown,y,
+Autumn 2021,24850,Topics in Scientific Computing,Gordon Kindlmann,y,
+Autumn 2021,25300,Introduction to Human-Computer Interaction,Pedro Lopes,y,
+Autumn 2021,25500,Beginning Screenwriting,Patrick Wimp,y,
+Autumn 2021,27022,Surveillance Media,Gary Kafer,y,
+Autumn 2021,28003,Issues in Film Sound,James F Lastra,y,
+Autumn 2021,29700,MADD Reading and Research,Various,y,y
+Winter 2022,10199,Digital Ethnography,Caterina Fugazzola; Katlo Mohutsiwa,y,
+Winter 2022,10513,Beyond Hashtags: Social Movements in Digital Society,Lara Janson,y,
+Winter 2022,10523,Digital Media & Social Life: Contemporary Methods,Kristen Schilt; Patrick Jagoda,y,
+Winter 2022,14109,Machine Learning at the Archive,Cameron Mankin,y,y
+Winter 2022,14207,Mindfulness: Experience and Media,Margot Browning,y,
+Winter 2022,14945,Digital Storytelling,Ian Jones,y,y
+Winter 2022,15310,Art and Technology Since World War I,Talia Shabtay,y,
+Winter 2022,15540,Comics at the Crossroads,Zoe Cary-Beckett,y,
+Winter 2022,15630,Television in an Age of Change,Ilana Emmett,y,y
+Winter 2022,17887,The Platformer: History and Theory of a Videogame Genre,Christopher Carloy,y,
+Winter 2022,18600,History of International Cinema II: Sound Era to 1960,Maria Belodubrovskaya; Maria Belodubrovskaya,y,
+Winter 2022,20370,Inclusive Technology: Designing for Underserved and Marginalized Populations,Marshini Chetty,y,
+Winter 2022,20500,ARTGAMES,Jon Satrom,y,y
+Winter 2022,20621,Electronic Music: External Sensor Use in Real-Time Performance,Benjamin Whiting,y,
+Winter 2022,21111,Creative Coding,Ravi Chugh,y,
+Winter 2022,23620,Internet Censorship and Online Speech,Nicholas Feamster,y,
+Winter 2022,23632,Internet Art II,Nicholas Briz,y,y
+Winter 2022,23655,Collaborative Artware,Nicholas Briz,y,y
+Winter 2022,23801,Video,Scott Wolniak,y,
+Winter 2022,23808,Introduction to 16mm Filmmaking,Thomas Comerford,y,
+Winter 2022,23820,The Mind as Stage: Podcasting,Sarah Geis,y,
+Winter 2022,23931,Documentary Production II,Sarah Price,y,
+Winter 2022,24618,Electronic Music: Composing with Sound,Gabriel Novak,y,
+Winter 2022,25171,"Robots, animals, technologies: Science fiction and the more-than-human",William Hutchison,y,
+Winter 2022,25201,Art & Machine Intelligence,Jason Salavon,y,
+Winter 2022,27522,Experimental Futures: Re-figurations of Human/Environment Relationships,Desiree Foerster,y,
+Winter 2022,28300,Disability and Design,Jennifer Iverson; Michele Friedner,y,
+Winter 2022,29400,Media Arts and Design Capstone Colloquium,Various,y,y
+Winter 2022,29700,MADD Reading and Research,Various,y,y
+Spring 2022,10245,Serious Play: Video Games and Global Politics,Caterina Fugazzola,y,
+Spring 2022,10440,Desiring Machines: Artificial Intelligence in Contemporary Media,Ashleigh Cassemere-Stanfield,y,
+Spring 2022,10940,Reading Reality TV: How to Research Identity in Contemporary Culture,Brandon Truett,y,
+Spring 2022,10950,Filth as Genre,Beatrice Bradley,y,
+Spring 2022,13020,Opera Across Media,Catrin Dowd; Martha Feldman,y,
+Spring 2022,13020,Opera Across Media,Catrin Dowd; Martha Feldman,y,
+Spring 2022,13133,Queering Visual Culture in Modern India,Jenisha Borah,y,
+Spring 2022,13275,"Justice: Race, Digital Media, & Human Rights Activism",Maria Dikcis,y,
+Spring 2022,13517,"Introduction to Critical Spatial Media: Visualizing Urban, Environmental, and Planetary Change",Alexander Arroyo; Grga Basic,y,
+Spring 2022,14355,True Crime and Infamy in Early Modern Japan,Melissa Van Wyk,y,
+Spring 2022,14920,Comparative Media Poetics: Horror,Ian Jones,y,y
+Spring 2022,17010,Gaming History,Bradley Bolman; Katherine Buse,y,
+Spring 2022,17880,Videogame Consoles: A Platform Studies Approach,Christopher Carloy,y,
+Spring 2022,18700,"History of International Cinema, Part III: 1960 to Present",James F Lastra,y,
+Spring 2022,18740,Global and Transnational Television,Ilana Emmett,y,y
+Spring 2022,18801,Chicago Film History,Judy Hoffman,y,
+Spring 2022,20230,From Theater Games to Gaming Theater,Arianna Gass,y,
+Spring 2022,20621,Electronic Music: External Sensor Use in Real-Time Performance,Benjamin Whiting,y,
+Spring 2022,22920,Art and Digital Fabrication,Cameron Mankin; Miles MacClure,y,y
+Spring 2022,23220,"Inventing, Engineering and Understanding Interactive Devices",Pedro Lopes,y,
+Spring 2022,23645,Body and the Digital,Crystal Beiersdorfer; Wilson Yerxa,y,y
+Spring 2022,23804,Experimental Animation: Exploring Manual Techniques,Scott Wolniak,y,
+Spring 2022,23833,Oral History & Podcasting,William Healy,y,
+Spring 2022,24618,Electronic Music: Composing with Sound,Baldwin Giang,y,
+Spring 2022,24820,Video Game Music Production and Sound Design,Michael Shallow,y,y
+Spring 2022,24910,Short Form Digital Storytelling: Creating a Web Series,Patrick Wimp,y,
+Spring 2022,24920,Virtual Reality Production,Marc Downie,y,
+Spring 2022,25900,Digitizing Human Rights,Jennifer Spruill; Nicholas Briz,y,
+Spring 2022,26210,Media Art and Design Practice,Various,y,y
+Spring 2022,29700,MADD Reading and Research,Various,y,y
+Autumn 2022,10199,Digital Ethnography,Anna Fox; Caterina Fugazzola,y,
+Autumn 2022,10325,"Setting Sound Standards: Music, Media, and Censorship in South Asia",,n,
+Autumn 2022,12320,Critical Videogame Studies,Patrick Jagoda,y,y
+Autumn 2022,12904,Ethics in the Digital Age,Daniel Moerner,y,
+Autumn 2022,13238,Documenting State Violence,Sasha Crawford-Holland,y,
+Autumn 2022,13450,"Artificial Intelligence, Algorithms and Human Rights",Austin Clyde,y,
+Autumn 2022,13517,"Introduction to Critical Spatial Media: Visualizing Urban, Environmental, and Planetary Change",Alexander Arroyo; Grga Basic,y,
+Autumn 2022,14822,Video Game Music and Sound,Will Myers,y,
+Autumn 2022,14920,Comparative Media Poetics: Horror,Ian Jones,y,y
+Autumn 2022,15620,Japanese Animation: The Making of a Global Media,Thomas Lamarre,y,
+Autumn 2022,16001,Censorship in East Asia: The Case of Colonial Korea,Kyeong-Hee Choi,y,
+Autumn 2022,18500,History of International Cinema I: Silent Era,Allyson Field,y,
+Autumn 2022,18703,"Video Art: The Analog Years. Theory, Technology, Practice",Ina Blom,y,
+Autumn 2022,20610,"Line, Trace, Motion: Computation and Experiment in Animation",Marc Downie,y,
+Autumn 2022,20900,Computers for Learning,,n,
+Autumn 2022,23218,Surveillance Aesthetics: Provocations About Privacy and Security in the Digital Age,Blase Ur,y,
+Autumn 2022,23631,Internet Art I,Nicholas Briz,y,y
+Autumn 2022,23655,Collaborative Artware,Nicholas Briz,y,y
+Autumn 2022,23801,Video,Scott Wolniak,y,
+Autumn 2022,23930,Documentary Production I,Marco Ferrari,y,
+Autumn 2022,24270,Children & Architecture,Luke Joyner,y,
+Autumn 2022,24410,Transmedia Puzzle Design & Performance,Sandor Weisz,y,y
+Autumn 2022,24618,Electronic Music: Composing with Sound,Hunter Brown,y,
+Autumn 2022,24817,Electronic Music: Introduction to Computer Music Programming,David Bird,y,
+Autumn 2022,24850,Topics in Scientific Computing,Gordon Kindlmann,y,
+Autumn 2022,25300,Introduction to Human-Computer Interaction,Pedro Lopes,y,
+Autumn 2022,25500,Beginning Screenwriting,Patrick Wimp,y,
+Autumn 2022,29400,Media Arts and Design Capstone Colloquium,Various,y,y
+Winter 2023,10567,Introduction to Computational Sociology,Austin Kozlowski,y,
+Winter 2023,12312,Virtual Theaters,John Muse,y,
+Winter 2023,12910,Virtual Ethnography: Encounters in Mediation,Michael Fisch; Thomas Lamarre,y,
+Winter 2023,13020,Opera Across Media,Anne Monique Pace; Martha Feldman,y,
+Winter 2023,14207,Mindfulness: Experience and Media,,n,
+Winter 2023,14350,Videogame Level Design,William Chyr,y,y
+Winter 2023,14570,Special Topics: Animation Theory,,n,
+Winter 2023,15312,Visual Art and Technology: From the Historical Avant Garde to the Algorithmic Present,Talia Shabtay,y,
+Winter 2023,15416,1990s Videogame History,Christopher Carloy,y,
+Winter 2023,15630,Television in an Age of Change,Ilana Emmett,y,y
+Winter 2023,17010,Gaming History,Bradley Bolman; Isabel Gabel; Katherine Buse,y,
+Winter 2023,18600,History of International Cinema II: Sound Era to 1960,Daniel Morgan,y,
+Winter 2023,20370,Inclusive Technology: Designing for Underserved and Marginalized Populations,Marshini Chetty,y,
+Winter 2023,20380,Actuated User Interfaces and Technology,Ken Nakagaki,y,
+Winter 2023,20700,Alternate Reality Games: Theory and Production,Heidi Coleman; Patrick Jagoda,y,
+Winter 2023,22322,Introduction to Game Design,Ashlyn Sparrow; Patrick Jagoda,y,y
+Winter 2023,22920,Art and Digital Fabrication,Cameron Mankin,y,y
+Winter 2023,23281,Topics in Human Robot Interaction,Sarah Sebo,y,
+Winter 2023,23620,Internet Censorship and Online Speech,Nicholas Feamster,y,
+Winter 2023,23632,Internet Art II,Nicholas Briz,y,y
+Winter 2023,23645,Body and the Digital,Crystal Beiersdorfer,y,y
+Winter 2023,23808,Introduction to 16mm Filmmaking,Thomas Comerford,y,
+Winter 2023,23820,The Mind as Stage: Podcasting,Sarah Geis,y,
+Winter 2023,23860,Screendance: Movement and New Media,Elizabeth Leopold,y,
+Winter 2023,23931,Documentary Production II,Marco Ferrari,y,
+Winter 2023,24540,Multimedia Fashion Design,Michael Shallow,y,y
+Winter 2023,24935,Introduction to Immersive Environments,Crystal Beiersdorfer,y,y
+Winter 2023,25022,Composing for Spatial Audio,David Bird,y,
+Winter 2023,25201,Art & Machine Intelligence,Jason Salavon,y,
+Winter 2023,28300,Disability and Design,Jennifer Iverson; Michele Friedner,y,
+Winter 2023,29400,Media Arts and Design Capstone Colloquium,Various,y,y
+Spring 2023,10006,Contemporary Art,Matthew Jackson,y,
+Spring 2023,10110,Intro to Porn Studies,Gabriel Ojeda-Sague,y,
+Spring 2023,10245,Serious Play: Video Games and Global Politics,Caterina Fugazzola,y,
+Spring 2023,12208,Posthuman Becoming,Andre Uhl,y,
+Spring 2023,14207,Mindfulness: Experience and Media,Margot Browning,y,
+Spring 2023,15300,The Loop as Form,Ian Jones,y,y
+Spring 2023,17212,Sonic Cultures of Japan,Michael Bourdaghs,y,
+Spring 2023,18700,"History of International Cinema, Part III: 1960 to Present",Clint Froehlich,y,
+Spring 2023,18814,Theme Park America,Alexander Hofmann,y,
+Spring 2023,20455,"Transmedia Theater, Live Experience Design, and Networked Performance: A Maker's Lab",Heidi Coleman,y,
+Spring 2023,20600,AI + Art: artificial.horse,Jon Satrom,y,y
+Spring 2023,22141,Intro to Genres: Drawing on Graphic Novels,Daniel Raeburn,y,
+Spring 2023,22506,Online Algorithmic Music,Nicholas Briz,y,y
+Spring 2023,23220,"Inventing, Engineering and Understanding Interactive Devices",,n,
+Spring 2023,23804,Experimental Animation: Exploring Manual Techniques,Scott Wolniak,y,
+Spring 2023,23833,Oral History & Podcasting,Sarah Geis,y,
+Spring 2023,24817,Electronic Music: Introduction to Computer Music Programming,David Bird,y,
+Spring 2023,24820,Video Game Music Production and Sound Design,Michael Shallow,y,y
+Spring 2023,24910,Short Form Digital Storytelling: Creating a Web Series,Patrick Wimp,y,
+Spring 2023,24920,Virtual Reality Production,Marc Downie,y,
+Spring 2023,25650,From Open Worlds to Angry Birds: Videogame History 2000-2010,Christopher Carloy,y,
+Spring 2023,25722,The Musical Interface: Constraint and Creativity,Andrew White,y,
+Spring 2023,26210,Media Art and Design Practice,Various,y,y
+Spring 2023,29700,MADD Reading and Research,Various,y,y
+Summer 2023,12904,Ethics in the Digital Age,Daniel Moerner,y,
+Summer 2023,23620,Internet Censorship and Online Speech,Nicholas Feamster,y,
+Summer 2023,26200,Hands-On Multimedia Design,Kyrin Hobson; Michael Shallow,y,y
+Autumn 2023,10325,"Setting Sound Standards: Music, Media, and Censorship in South Asia",Ronit Ghosh,y,
+Autumn 2023,11314,Fluxus and the Question of Media,Ina Blom,y,
+Autumn 2023,12422,Hearing Popular Music,Jennifer Iverson,y,
+Autumn 2023,12830,Indigenous Media and the Politics of Representation,Teresa Montoya,y,
+Autumn 2023,13517,"Introduction to Critical Spatial Media: Visualizing Urban, Environmental, and Planetary Change",Alexander Arroyo; Grga Basic; Sol Kim,y,
+Autumn 2023,14109,Machine Learning at the Archive,Cameron Mankin,y,y
+Autumn 2023,14613,"God of Manga: Osamu Tezuka's ""Phoenix,"" Buddhism, and Post-WWII Manga and Anime",Ada Palmer,y,
+Autumn 2023,14723,"Divas, Idols, Material Girls: Gender and Sexuality in Music Videos",Paula Harper,y,
+Autumn 2023,15630,Television in an Age of Change,Ilana Emmett,y,y
+Autumn 2023,16001,Censorship in East Asia: The Case of Colonial Korea,Kyeong-Hee Choi,y,
+Autumn 2023,18500,History of International Cinema I: Silent Era,Allyson Field,y,
+Autumn 2023,20602,Animation: Practices & Principles,Elizabeth Rogers,y,
+Autumn 2023,20721,Performance Captured,Marc Downie,y,
+Autumn 2023,20721,Performance Captured,Marc Downie,y,
+Autumn 2023,20900,Computers for Learning,Diana Franklin,y,
+Autumn 2023,22506,Online Algorithmic Music,Nicholas Briz,y,y
+Autumn 2023,23631,Internet Art I,Nicholas Briz,y,y
+Autumn 2023,23645,Body and the Digital,Crystal Beiersdorfer,y,y
+Autumn 2023,23801,Video,Scott Wolniak,y,
+Autumn 2023,23930,Documentary Production I,Marco Ferrari,y,
+Autumn 2023,24410,Transmedia Puzzle Design & Performance,Sandor Weisz,y,y
+Autumn 2023,24415,Games & Performance,Heidi Coleman,y,
+Autumn 2023,24618,Electronic Music: Composing with Sound,Kari Watson,y,
+Autumn 2023,24820,Video Game Music Production and Sound Design,Guhn Lee; Michael Shallow,y,y
+Autumn 2023,25201,Art & Machine Intelligence,Jason Salavon,y,
+Autumn 2023,25300,Introduction to Human-Computer Interaction,Pedro Lopes,y,
+Autumn 2023,25500,Beginning Screenwriting,Patrick Wimp,y,
+Autumn 2023,26501,Straight-line sensibilities. A hidden history of 20th Century Art,Ina Blom,y,
+Autumn 2023,29400,Media Arts and Design Capstone Colloquium,Various,y,y
+Winter 2024,10199,Digital Ethnography,Caterina Fugazzola; Yuan Zhuang,y,
+Winter 2024,10567,Introduction to Computational Sociology,Austin Kozlowski,y,
+Winter 2024,10871,"Horror, Abjection, and the Monstrous Feminine",Hoda El Shakry; Rana Ghuloom,y,
+Winter 2024,10906,Contemporary Cinematic Special Effects,Cooper Long,y,
+Winter 2024,12043,The Aesthetics of Artificial Intelligence,Andre Uhl,y,
+Winter 2024,13044,"Generations, Gender, and Genre in Korean Fiction & TV Drama",Kyeong-Hee Choi,y,
+Winter 2024,13517,"Introduction to Critical Spatial Media: Visualizing Urban, Environmental, and Planetary Change",Alexander Arroyo; Grga Basic; Sol Kim,y,
+Winter 2024,14510,Kawaii (cuteness) culture in Japan and the world,Nisha Kommattam,y,
+Winter 2024,14805,Religion in Anime and Japanese Pop Culture,Bruce Winkelman,y,
+Winter 2024,14945,Digital Storytelling,Ian Jones,y,y
+Winter 2024,15150,Histories of Technology in China,Jacob Eyferth,y,
+Winter 2024,15416,1990s Videogame History,Christopher Carloy,y,
+Winter 2024,15502,Mediating Korean History,Graeme Reynolds,y,
+Winter 2024,16718,Electronic Music: Approaches to Electronic Music,Hunter Brown,y,
+Winter 2024,18600,History of International Cinema II: Sound Era to 1960,Clint Froehlich,y,
+Winter 2024,20023,Composing for Intermedia,David Bird,y,
+Winter 2024,20041,Digital Media I: Game Design with Unity,Cameron Mankin,y,
+Winter 2024,20302,Bodies at Work: Art & Civic Responsibility,Denise Serna,y,
+Winter 2024,20370,Inclusive Technology: Designing for Underserved and Marginalized Populations,Marshini Chetty,y,
+Winter 2024,20380,Actuated User Interfaces and Technology,Ken Nakagaki,y,
+Winter 2024,20500,ARTGAMES,Christopher Collins,y,y
+Winter 2024,20623,Theories and Aesthetics of Remix,Paula Harper,y,
+Winter 2024,22322,Introduction to Game Design,Ashlyn Sparrow; Bruno Pasquinelli; Jakob Slifker,y,y
+Winter 2024,22800,3D Modeling and Sculpting for Video Games,Tim Nicholson,y,y
+Winter 2024,22900,Color Theory and Practice,Scott Wolniak,y,
+Winter 2024,23220,"Inventing, Engineering and Understanding Interactive Devices",Pedro Lopes,y,
+Winter 2024,23620,Internet Censorship and Online Speech,Nicholas Feamster,y,
+Winter 2024,23632,Internet Art II,Nicholas Briz,y,y
+Winter 2024,23808,Introduction to 16mm Filmmaking,Thomas Comerford,y,
+Winter 2024,23820,The Mind as Stage: Podcasting,Sarah Geis,y,
+Winter 2024,23931,Documentary Production II,Marco Ferrari,y,
+Winter 2024,24007,Thinking About and Making Pictures,Laura Letinsky,y,
+Winter 2024,24910,Short Form Digital Storytelling: Creating a Web Series,Patrick Wimp,y,
+Winter 2024,24920,Virtual Reality Production,Marc Downie,y,
+Winter 2024,25900,Digitizing Human Rights,Jennifer Spruill; Nicholas Briz,y,
+Winter 2024,28300,Disability and Design,Jennifer Iverson; Michele Friedner,y,
+Winter 2024,29400,Media Arts and Design Capstone Colloquium,Various,y,y
+Winter 2024,29700,MADD Reading and Research,Various,y,y
+Spring 2024,10006,Contemporary Art,Alan Longino; Jennifer Harris; Matthew Jackson; Yan Jin,y,
+Spring 2024,10245,Serious Play: Video Games and Global Politics,Caterina Fugazzola; Savannah Sima,y,y
+Spring 2024,12500,Video Games and Language,Patrick Fiorilli,y,
+Spring 2024,13020,Opera Across Media,Kari Watson; Martha Feldman,y,
+Spring 2024,13020,Opera Across Media,Martha Feldman,y,
+Spring 2024,14207,Mindfulness: Experience and Media,Margot Browning,y,
+Spring 2024,14900,"Narratives of Investigation, Games of Investigation",Ian Jones,y,y
+Spring 2024,15620,Japanese Animation: The Making of a Global Media,Kaelan Doyle-Myerscough; Lilian Kong; Thomas Lamarre,y,
+Spring 2024,17817,Sonic the Hedgehog,Christopher Carloy,y,
+Spring 2024,18205,Feminist Documentary Filmmaking,Cinta Peleja,y,
+Spring 2024,18700,"History of International Cinema, Part III: 1960 to Present",Andrea Oranday; James F Lastra; Kaelan Doyle-Myerscough,y,
+Spring 2024,18814,Theme Park America,Alexander Hofmann,y,
+Spring 2024,20042,Digital Media II: Extended Reality with Unity,Crystal Beiersdorfer,y,
+Spring 2024,20404,From Failure to Filter: S#bversions &amp; E/olutions in Glitch Art,Jon Satrom,y,y
+Spring 2024,20420,Painting with Light in Space,Rasean Davonte Johnson,y,
+Spring 2024,20624,New Forms in DJing,Michael Shallow,y,y
+Spring 2024,20810,Sound / Image Mapping,Marc Downie,y,
+Spring 2024,22141,Intro to Genres: Drawing on Graphic Novels,Daniel Raeburn,y,
+Spring 2024,23804,Experimental Animation: Exploring Manual Techniques,Erin Gregory; Scott Wolniak,y,
+Spring 2024,23833,Oral History & Podcasting,Sarah Geis,y,
+Spring 2024,24270,Children & Architecture,Luke Joyner,y,
+Spring 2024,24420,Games and Performance: Live Action Role Playing Games,Heidi Coleman,y,
+Spring 2024,24817,Electronic Music: Introduction to Computer Music Programming,David Bird,y,
+Spring 2024,26210,Media Art and Design Practice,Various,y,y
+Spring 2024,28815,American Spectacle,Alexander Hofmann,y,
+Spring 2024,29700,MADD Reading and Research,Various,y,y
+Summer 2024,10006,Contemporary Art,Sila Ulug,y,
+Summer 2024,12320,Critical Videogame Studies,Ashlyn Sparrow; Riss Lawrence,y,y
+Summer 2024,23620,Internet Censorship and Online Speech,Nicholas Feamster,y,
+Summer 2024,26300,Art and Design in the Age of the Internet,,n,
+Autumn 2024,10110,Intro to Porn Studies,Gabriel Ojeda-Sague,y,
+Autumn 2024,10199,Digital Ethnography,Caterina Fugazzola; Lauren Hagani,y,
+Autumn 2024,10507,"Gender, Race, and Horror",AE Stevenson,y,
+Autumn 2024,10603,What Is Animation?,Cassandra Guan,y,
+Autumn 2024,11315,"Introduction to Art, Technology, and Media",Ina Blom,y,
+Autumn 2024,11320,Philippe Parreno's Media Temporalities,Ina Blom,y,
+Autumn 2024,12079,Mass Media in Semiotic Perspective,Christopher Bloechl,y,
+Autumn 2024,12980,Planetary Media,Katherine Buse,y,
+Autumn 2024,13044,"Generations, Gender, and Genre in Korean Fiction & TV Drama",Kyeong-Hee Choi,y,
+Autumn 2024,14109,Machine Learning at the Archive,Cameron Mankin,y,y
+Autumn 2024,15337,Photography and the Making of Modern Art and Science,Talia Shabtay,y,
+Autumn 2024,16001,Censorship in East Asia: The Case of Colonial Korea,Kyeong-Hee Choi,y,
+Autumn 2024,18500,History of International Cinema I: Silent Era,Daniel Morgan,y,
+Autumn 2024,20310,Introduction to Designing Interaction,Ken Nakagaki; Zelia Mauro,y,
+Autumn 2024,20500,ARTGAMES,Christopher Collins,y,y
+Autumn 2024,20602,Animation: Practices & Principles,Elizabeth Rogers,y,
+Autumn 2024,20700,Alternate Reality Games: Theory and Production,Heidi Coleman; Patrick Jagoda,y,
+Autumn 2024,22900,Color Theory and Practice,Scott Wolniak; Susan Jablonski,y,
+Autumn 2024,23218,Surveillance Aesthetics: Provocations About Privacy and Security in the Digital Age,Blase Ur,y,
+Autumn 2024,23620,Internet Censorship and Online Speech,Nicholas Feamster,y,
+Autumn 2024,23645,Body and the Digital,Crystal Beiersdorfer,n,y
+Autumn 2024,23860,Screendance: Movement and New Media,Daniele Wilmouth,y,
+Autumn 2024,23930,Documentary Production I,Marco Ferrari,y,
+Autumn 2024,24410,Transmedia Puzzle Design & Performance,Sandor Weisz,y,y
+Autumn 2024,24817,Electronic Music: Introduction to Computer Music Programming,Hunter Brown,y,
+Autumn 2024,24820,Video Game Music Production and Sound Design,Michael Shallow,y,y
+Autumn 2024,25201,Art & Machine Intelligence,Jason Salavon; Zihan Qiu,y,
+Autumn 2024,25300,Introduction to Human-Computer Interaction,Pedro Lopes,y,
+Autumn 2024,25450,Writing the Feature Film,Katherine O'Brien,y,
+Autumn 2024,25604,How to Draw Things on the Computer,Marc Downie,y,
+Autumn 2024,25630,Videogames and Genre Storytelling,Ian Jones,y,y
+Autumn 2024,26900,Communicating Science: For Peers and the Public,Chana Haouzi; Jeremy Manier; Paul C Sereno,y,
+Autumn 2024,27410,Scenography: Static and Kinetic Forms,,n,
+Autumn 2024,28250,Performance as Event,,n,
+Autumn 2024,29401,Capstone I: Methodologies,Various,y,y
+Winter 2025,12312,Virtual Theaters,John Muse,y,
+Winter 2025,12350,Black Game Theory,Ashlyn Sparrow; Patrick Jagoda,y,y
+Winter 2025,12500,Video Games and Language,Patrick Fiorilli,y,y
+Winter 2025,13403,Cybernetic Futures in Digital Media,Crystal Beiersdorfer,y,y
+Winter 2025,13517,"Introduction to Critical Spatial Media: Visualizing Urban, Environmental, and Planetary Change",Alexander Arroyo; Casey Mathur; Elaine Zhou; Grga Basic,y,
+Winter 2025,14510,Kawaii (cuteness) culture in Japan and the world,Nisha Kommattam,y,
+Winter 2025,14723,"Divas, Idols, Material Girls: Gender and Sexuality in Music Videos",Paula Harper,y,
+Winter 2025,14805,Religion in Anime and Japanese Pop Culture,Kayoko Shimomura; Qianyi Wu; Stephan Licha,y,
+Winter 2025,14945,Digital Storytelling,Ian Jones,y,y
+Winter 2025,15310,Art and Technology: From the Historical Avant Gardes to the Algorithmic Present,Talia Shabtay,y,
+Winter 2025,15403,History of Creative Computing,Cameron Mankin,y,y
+Winter 2025,15502,Mediating Korean History,Graeme Reynolds,y,
+Winter 2025,18600,History of International Cinema II: Sound Era to 1960,James F Lastra; Jiyoon Kim,y,
+Winter 2025,20041,Digital Media I: Game Design with Unity,Cameron Mankin,y,
+Winter 2025,20043,Digital Media III: Creating 3D Worlds in Blender,Crystal Beiersdorfer,y,
+Winter 2025,20370,Inclusive Technology: Designing for Underserved and Marginalized Populations,Brennan Schaffner; Jacqueline Mei; Madison Pickering; Marshini Chetty; Tiffany Lee,y,
+Winter 2025,20380,Actuated User Interfaces and Technology,Alan Pham; Ken Nakagaki; Robert Rae-Grant; Yifan Zou; Yunqi Yang,y,
+Winter 2025,20500,ARTGAMES,Christopher Collins,y,y
+Winter 2025,22150,Lighting Design & Technology,Garrett Bell,y,
+Winter 2025,22506,Algorithmic Music Online,Nicholas Briz,y,y
+Winter 2025,22800,3D Modeling and Sculpting for Video Games,Tim Nicholson,y,y
+Winter 2025,23220,"Inventing, Engineering and Understanding Interactive Devices",Alex Mazursky; August Waldspurger; Nathan Wang; Pedro Lopes; Yudai Tanaka,y,
+Winter 2025,23631,Internet Art & Web Design,Nicholas Briz,y,y
+Winter 2025,23655,Collaborative Artware,Christopher Collins,y,y
+Winter 2025,23808,Introduction to 16mm Filmmaking,Thomas Comerford,y,
+Winter 2025,23820,The Mind as Stage: Podcasting,Sarah Geis,y,
+Winter 2025,23931,Documentary Production II,Hugo Ljungbaeck; Marco Ferrari,y,
+Winter 2025,24618,Electronic Music: Composing with Sound,Ryan Garvey; Senem Pirler,y,
+Winter 2025,24920,Virtual Reality Production,Marc Downie,y,
+Winter 2025,27522,Experimental Futures: Re-figurations of Human/Environment Relationships,Desiree Foerster,y,
+Winter 2025,28300,Disability and Design,Grace Wilson; Jennifer Iverson; Michele Friedner,y,
+Winter 2025,29402,Capstone II: Production,Various,y,y
+Winter 2025,29700,MADD Reading and Research,Various,y,y
+Spring 2025,10006,Contemporary Art,Caris White; Hugo Ljungbaeck; Lucia Neirotti; Matthew Jackson,y,
+Spring 2025,10474,"Crossing Boundaries: Virtual Reality, Embodiment, and the Reimagining of Social Space",Caterina Fugazzola,y,
+Spring 2025,10474,"Crossing Boundaries: Virtual Reality, Embodiment, and the Reimagining of Social Space",Caterina Fugazzola,y,
+Spring 2025,10929,"Cabal, Cult, and Crisis: Religion and Contemporary Conspiracy Theory",Justin Smolin,y,
+Spring 2025,12303,Race and Indigeneity in Video Games,Jodi Byrd,y,
+Spring 2025,14207,Mindfulness: Experience and Media,Margot Browning,y,
+Spring 2025,15303,Closure and Infinity in Digital Media,Ian Jones,y,y
+Spring 2025,16718,Electronic Music: Approaches to Electronic Music,Kari Watson,y,
+Spring 2025,17212,Sonic Cultures of Japan,Michael Bourdaghs; Yung Yung Liu; Ziyi Lin,y,
+Spring 2025,18700,"History of International Cinema, Part III: 1960 to Present",Clint Froehlich; Leah Li,y,
+Spring 2025,20403,Conscious Media Practices in the Age of Brain Rot,Christopher Collins,y,y
+Spring 2025,20420,Painting with Light in Space,Rasean Davonte Johnson,y,
+Spring 2025,20502,Sound & Environment,Carlo Diaz; Carlo Diaz,y,
+Spring 2025,20550,Writing the TV Pilot,Katherine O'Brien,y,
+Spring 2025,20601,"AI + Video: Glitches, Promises, & Slop",Jon Satrom,y,y
+Spring 2025,20703,Computer as Theater,Maryam Faridani,y,y
+Spring 2025,20935,Augmented Reality in the Garden,Marc Downie,y,
+Spring 2025,23632,Creative Coding Online,Nicholas Briz,y,y
+Spring 2025,23804,Experimental Animation: Exploring Manual Techniques,Maya D'Costa; Scott Wolniak,y,
+Spring 2025,23833,Oral History & Podcasting,Sarah Geis,y,
+Spring 2025,24270,Children & Architecture,Luke Joyner,y,
+Spring 2025,24931,Re-imagning Health in Immersive Media Environments,Desiree Foerster,y,
+Spring 2025,25650,From Open Worlds to Angry Birds: Videogame History 2000-2010,Christopher Carloy,y,
+Spring 2025,26210,Media Art and Design Practice,Various,y,y
+Spring 2025,27430,Sound & Light in Motion,Rasean Davonte Johnson,y,
+Spring 2025,28250,Performance as Event,Devon De Mayo; Jon Satrom,y,
+Spring 2025,29700,MADD Reading and Research,Various,y,y
+Summer 2025,10006,Contemporary Art,Sila Ulug,y,
+Summer 2025,12320,Critical Videogame Studies,Ashlyn Sparrow; Riss Lawrence,y,y
+Summer 2025,23620,Internet Censorship and Online Speech,Andrew Chu; Anna Lorimer; Nicholas Feamster,y,
+Autumn 2025,10110,Intro to Porn Studies,Gabriel Ojeda-Sague,y,
+Autumn 2025,10199,Digital Ethnography,Caterina Fugazzola,y,
+Autumn 2025,10871,"Horror, Abjection, and the Monstrous Feminine",Hoda El Shakry,y,
+Autumn 2025,12320,Critical Videogame Studies,Ashlyn Sparrow; Patrick Jagoda,y,y
+Autumn 2025,14109,AI at the Archive,Cameron Mankin,y,y
+Autumn 2025,16001,Censorship in East Asia: The Case of Colonial Korea,Kyeong-Hee Choi,y,
+Autumn 2025,18500,History of International Cinema I: Silent Era,Amber Fehrs; James F Lastra,y,
+Autumn 2025,18703,"Video Art: The Analog Years. Theory, Technology, Practice",Ina Blom,y,
+Autumn 2025,20308,Advanced Typography,Danielle Aubert,y,
+Autumn 2025,20310,Introduction to Designing Interaction,Abani Ahmed; Anup Sathya Sai Kumar; Jiawen Yao; Ken Nakagaki,y,
+Autumn 2025,20500,ARTGAMES,Christopher Collins,y,y
+Autumn 2025,20601,AI + Video,Jon Satrom,y,y
+Autumn 2025,20721,Performance Captured,Marc Downie,y,
+Autumn 2025,20900,Computers for Learning,Diana Franklin; Ngoc Minh Tran,y,
+Autumn 2025,21010,Stage Design: Worldbuilding,Rasean Davonte Johnson,y,
+Autumn 2025,22506,Algorithmic Music Online,Nicholas Briz,y,y
+Autumn 2025,23281,Topics in Human Robot Interaction,Sarah Sebo,y,
+Autumn 2025,23620,Internet Censorship and Online Speech,Anna Lorimer; Nicholas Feamster,y,
+Autumn 2025,23645,Body and the Digital,,n,y
+Autumn 2025,23808,Introduction to 16mm Filmmaking,,n,
+Autumn 2025,23930,Documentary Production I,Chao Ming; Chris Filippone,y,
+Autumn 2025,24410,Transmedia Puzzle Design & Performance,Sandor Weisz,y,y
+Autumn 2025,24450,Games & Performance: Invitation and Immersion,Heidi Coleman; Shade Murray,y,
+Autumn 2025,24820,Video Game Music Production and Sound Design,Michael Shallow,y,y
+Autumn 2025,25201,Art & Machine Intelligence,Jason Salavon; Nathan Holder,y,
+Autumn 2025,25300,Introduction to Human-Computer Interaction,Jasmine Lu; Pedro Lopes; Yun Ho,y,
+Autumn 2025,25450,Writing the Feature Film,Katherine O'Brien,y,
+Autumn 2025,26210,Media Art and Design Practice,Various,y,y
+Autumn 2025,26501,Straight-line sensibilities. A hidden history of 20th Century Art,Ina Blom,y,
+Autumn 2025,29401,Capstone I: Methodologies,Various,y,y
+Autumn 2025,29700,MADD Reading and Research,Various,y,y
+Winter 2026,10426,Literature vs. AI,Christopher Gortmaker,y,
+Winter 2026,10474,"Crossing Boundaries: Virtual Reality, Embodiment, and the Reimagining of Social Space",Caterina Fugazzola,y,
+Winter 2026,10929,"Cabal, Cult, and Crisis: Religion and Contemporary Conspiracy Theory",Justin Smolin,y,
+Winter 2026,13020,Opera Across Media,Christina Colanduoni; Martha Feldman,y,
+Winter 2026,13403,Digital Futures,Crystal Beiersdorfer,y,y
+Winter 2026,13517,"Pixels, Planet, Power: Visualizing Urban & Environmental Change",Alonso Gutierrez Olivares; Grga Basic,y,
+Winter 2026,14400,Living the Body Through Technology,Desiree Foerster; Elham Mireshghi,y,
+Winter 2026,14510,Kawaii (cuteness) culture in Japan and the world,Nisha Kommattam,y,
+Winter 2026,14925,Myths at Play: Greek Mythology in Video Games,Emily Bembeneck,y,y
+Winter 2026,14945,Digital Storytelling,Ian Jones,y,y
+Winter 2026,15200,Design History,Sarah Martin,y,y
+Winter 2026,15310,Art and Technology: From the Historical Avant Gardes to the Algorithmic Present,Talia Shabtay,y,
+Winter 2026,15403,History of Creative Computing,Cameron Mankin,y,y
+Winter 2026,15430,History of Indie Games,Ian Jones,y,y
+Winter 2026,15908,Media Revolutions Then and Now,Christopher Wild; Tamara Golan,y,
+Winter 2026,17887,The Platformer: History and Theory of a Videogame Genre,Christopher Carloy,y,
+Winter 2026,18600,History of International Cinema II: Sound Era to 1960,Daniel Pinto; Maria Belodubrovskaya,y,
+Winter 2026,18600,History of International Cinema II: Sound Era to 1960,Maria Belodubrovskaya,y,
+Winter 2026,20041,Digital Media I: Game Design with Unity,Cameron Mankin,y,
+Winter 2026,20200,Branding and Counterbranding,Sarah Martin,y,y
+Winter 2026,20360,Creating Interactive Systems With User-Centered Design,Abani Ahmed; Jiayin Zhi; Marshini Chetty; Tajveer Singh Dhesi; Xi Jiang,y,
+Winter 2026,20624,New Forms in DJing,Michael Shallow,y,y
+Winter 2026,22800,3D Modeling and Sculpting for Video Games,Tim Nicholson,y,y
+Winter 2026,22900,Color Theory and Practice,Scott Wolniak,y,
+Winter 2026,23220,"Inventing, Engineering and Understanding Interactive Devices",Pedro Lopes; Yun Ho,y,y
+Winter 2026,23631,Internet Art & Web Design,Nicholas Briz,y,y
+Winter 2026,23635,"Collaborations, Collectives, and Community",,n,y
+Winter 2026,23645,Body and the Digital,,n,y
+Winter 2026,23808,Introduction to 16mm Filmmaking,Thomas Comerford,y,
+Winter 2026,23820,The Mind as Stage: Podcasting,Sarah Geis,y,
+Winter 2026,24420,Games and Performance: Live Action Role Playing Games,Heidi Coleman,y,
+Winter 2026,24618,Sound Practices: Composing with Sound,Nathan Friedman; Senem Pirler,y,
+Winter 2026,24900,Embodied Digital Performance and Virtual Production,Christopher Collins,y,y
+Winter 2026,24920,Virtual Reality Production,Marc Downie,y,
+Winter 2026,26210,Media Art and Design Practice,Various,y,y
+Winter 2026,28003,Issues in Film Sound,James F Lastra,y,
+Winter 2026,28300,Disability and Design,Jennifer Iverson; Michele Friedner,y,
+Winter 2026,29402,Capstone II: Production,Various,y,y
+Winter 2026,29700,MADD Reading and Research,Various,y,y
+Spring 2026,10101,Foundations in Media Art and Design,Various,y,y
+Spring 2026,10245,Serious Play: Video Games and Global Politics,Caterina Fugazzola; Zahir Quader,y,
+Spring 2026,10379,Interactive Environments,Katherine Buse,y,
+Spring 2026,10630,Understanding Digital Media: An Introduction to Contemporary Media Aesthetics,Haitham Ibrahim,y,
+Spring 2026,10900,Gaming the Gods: Video Games and Religion,Jake Sirota; Luke Soderstrom; Marshall Cunningham; Sophia DeVita,y,
+Spring 2026,12079,Mass Media in Semiotic Perspective,Christopher Bloechl,y,
+Spring 2026,12422,Hearing Popular Music,Alejandro Cueto; Jennifer Iverson,y,
+Spring 2026,12500,Video Games and Language,Patrick Fiorilli,y,y
+Spring 2026,14207,Mindfulness: Experience and Media,Margot Browning,y,
+Spring 2026,14370,Critical Approaches to Civilization,Emily Bembeneck,y,y
+Spring 2026,16718,Electronic Music: Approaches to Electronic Music,Ryan Garvey,y,
+Spring 2026,17817,Sonic the Hedgehog,Christopher Carloy; Rimsha Saleem,y,
+Spring 2026,18700,"History of International Cinema, Part III: 1960 to Present",Ian Jones; Jiyoon Kim,y,
+Spring 2026,18814,Theme Park America,Alexander Hofmann,y,
+Spring 2026,20000,Retro Media,Jon Satrom,y,y
+Spring 2026,20380,Actuated User Interfaces and Technology,Anup Sathya Sai Kumar; Ken Nakagaki; Robert Rae-Grant; Yunqi Yang,y,
+Spring 2026,20403,Conscious Media Practices in the Age of Brain Rot,Christopher Collins,y,y
+Spring 2026,20440,Projection Design & Technology,Rasean Davonte Johnson,y,
+Spring 2026,20550,Writing the TV Pilot,Katherine O'Brien,y,
+Spring 2026,20703,Computer as Theater,Maryam Faridani,y,y
+Spring 2026,20850,Immersive Sound Design for Live Performance,Benjamin Kauffman,y,
+Spring 2026,21115,Creative Coding at the Inflection Point,Marc Downie,y,
+Spring 2026,22322,Introduction to Game Design,Cameron Mankin,y,y
+Spring 2026,22400,How Games Get Made: Exploring Roles in Game Development,Danielle Agbonifo,y,y
+Spring 2026,23632,Generative Art Online,Nicholas Briz,y,y
+Spring 2026,23833,Oral History & Podcasting,Sarah Geis,y,
+Spring 2026,23931,Documentary Production II,Chris Filippone; Jackson Zaro,y,
+Spring 2026,24931,Re-Imagining Health in Immersive Media Environments,Desiree Foerster,y,
+Spring 2026,25630,"Games, Rules, Stories, Genres",Ian Jones,y,y
+Spring 2026,26210,Media Art and Design Practice,Various,y,y
+Spring 2026,26210,Media Art and Design Practice,Various ,y,y
+Spring 2026,26521,Sound Practices: Performing with Sound,Senem Pirler,y,
+Spring 2026,27812,Critical Worldbuilding,Kaelan Doyle-Myerscough,y,
